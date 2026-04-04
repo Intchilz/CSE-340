@@ -13,7 +13,7 @@ VALUES (
         'Iam1ronM@n'
     );
 
--- QUERY 2: Modify the Tony Stark record to change the account_type to "Admin"
+-- QUERY 2: Modify the Tony Stark record to change the account_type to "Admi"
 UPDATE public.account
 SET account_type = 'Admin'::account_type
 WHERE account_firstname = 'Tony'
