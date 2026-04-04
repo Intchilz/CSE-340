@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": true
+            },
+            "previewLimit": 50,
+            "server": "dpg-d77617qdbo4c73e9rnb0-a.oregon-postgres.render.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "CSE340",
+            "database": "cse340_pvgk",
+            "username": "lchilumba",
+            "password": "ZRmZHUSCZTZcvDSkRCyHMeS5MFO9DZLU5"
+        }
+    ]
+}
